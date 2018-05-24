@@ -1,0 +1,11 @@
+# Site settings
+title: 培公诗抄
+email: peigong@foxmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    封山勤扫路，闭关好读书。
+baseurl: "/poem" # the subpath of your site, e.g. /blog/
+url: "http://peigong.net" # the base hostname & protocol for your site
+github_username:  peigong
+
+# Build settings
+markdown: kramdown
