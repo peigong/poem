@@ -6,6 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/poem" # the subpath of your site, e.g. /blog/
 url: "http://peigong.net" # the base hostname & protocol for your site
 github_username:  peigong
+# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink: articles/:categories/:title.html
 
 # Build settings
 markdown: kramdown
